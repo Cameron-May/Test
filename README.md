@@ -7,3 +7,8 @@
 ```java 
 final int BIG = 10000000;
 ```
+During te class, I have learned about differant infinitires
+```java
+Interger.MAX_VALUE
+Double.MAX_VALUE + 1
+```
